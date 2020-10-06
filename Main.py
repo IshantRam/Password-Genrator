@@ -2,8 +2,6 @@ import string
 import random
 from tkinter import simpledialog
 import tkinter as tk
-from tkinter import *
-from tkinter import messagebox
 
 if __name__ == "__main__":
     s1 = string.ascii_uppercase
